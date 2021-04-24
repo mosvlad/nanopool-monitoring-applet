@@ -1,5 +1,5 @@
 # Nanopool-monitoring-applet
-Applet for monitoring your [nanopool](https://nanopool.org/) account. 
+Linux Applet for monitoring your [nanopool](https://nanopool.org/) account. 
 
 
 # How to...
